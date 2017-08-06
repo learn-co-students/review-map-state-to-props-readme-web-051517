@@ -19,6 +19,7 @@ class App extends Component {
 
   render() {
     // debugger;
+    // learn submitting nah mean
     return (
       <div className="App">
           <button onClick={() => this.handleOnClickItems()}>
